@@ -307,3 +307,20 @@ nav {
     text-align: left;
     color: #fff;
 }
+
+/* FOOTER */
+
+footer {
+    background-color: #242424;
+}
+
+.footer__logo {
+    /* width: 80px;
+    height: 80px; */
+    color: #f8f8f8;
+    font-size: 25px;
+}
+
+.footer__row {
+    padding: 8%;
+}
